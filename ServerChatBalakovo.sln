@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerChatBalakovo", "WindowsFormsApp1\ServerChatBalakovo.csproj", "{0E080FF0-D34E-4209-BFA7-E4409480B89B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E080FF0-D34E-4209-BFA7-E4409480B89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E080FF0-D34E-4209-BFA7-E4409480B89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E080FF0-D34E-4209-BFA7-E4409480B89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E080FF0-D34E-4209-BFA7-E4409480B89B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1F3A791-5C95-44A3-82D2-746FF1182540}
+	EndGlobalSection
+EndGlobal
