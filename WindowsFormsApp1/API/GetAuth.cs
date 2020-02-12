@@ -25,7 +25,7 @@ namespace ServerChatBalakovo.API
           // FlurlHttp.Configure(settings => settings.HttpClientFactory = new OTHER.PollyHttpClientFactory());
             api.Authorize(new ApiAuthParams()
             {
-                AccessToken = "5c9fb58b8bd85a05dd8017f24b8ab6ec0b689a6c359e74ae6051980272d932ce9882bc719e0c4cc924797"
+                AccessToken = "*your secret group key*" //ключ группы
             });
             Console.WriteLine(api.Token);
         }
